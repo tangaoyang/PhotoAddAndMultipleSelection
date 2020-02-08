@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+target '相册里添加照片' do
+pod 'CTAssetsPickerController'
+end
+
